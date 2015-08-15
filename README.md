@@ -4,4 +4,6 @@ To-do list:
 - [x] Make music
 - [ ] Make trailer
 - [x] Make installer
+- [ ] Finish plotline
 - [ ] Make game
+
