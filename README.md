@@ -4,6 +4,6 @@ To-do list:
 - [x] Make music
 - [ ] Make trailer
 - [x] Make installer
-- [ ] Finish plotline
+- [-] Finish plotline - Plot outline and beginning is done
 - [ ] Make game
 
